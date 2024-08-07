@@ -1,4 +1,4 @@
-# Quiz #2 : Social Media Post
+# Quiz #28 : Social Media Post
 
 ### ป้อนข้อมูลนักศึกษา
 
